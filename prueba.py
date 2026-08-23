@@ -1,0 +1,1 @@
+print("Mi entorno de Ingeniería en Sistemas funciona")
